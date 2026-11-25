@@ -7,3 +7,4 @@ Mon premier dépôt Git, créé pendant ma formation web.
 - .gitignore et retour en arrière (restore, revert)
 - Branches, fusion et résolution de conflit
 - Envoi sur GitHub (push)
+
